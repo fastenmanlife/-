@@ -1,0 +1,7 @@
+{
+  "name": "Hafiz Hadith AI",
+  "description": "An advanced Hadith memorization app featuring AI-powered recitation practice, smart gap-filling, and speech-to-text evaluation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
